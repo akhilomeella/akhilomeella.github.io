@@ -1,13 +1,14 @@
-@media only screen and (device-width: 390px)
+/*@media only screen and (device-width: 390px)
                    and (device-height: 844px)
                    and (-webkit-device-pixel-ratio: 3)
                    
-{
+{*/
 * {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
     font-family: "Poppins", sans-serif;
+    flex-wrap: wrap;
   }
   body {
     background-color: #680592;
@@ -148,4 +149,3 @@
     position: relative;
     left: 40%;
   }
-}
